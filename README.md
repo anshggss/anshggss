@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ansh</h1>
 <h3 align="center">Frontend Developer from Uttar Pradesh, India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anshggss&label=Profile%20views&color=0e75b6&style=flat" alt="anshggss" /> </p>
 
 - 🔭 I’m currently working on **a lot of projects (yes! all at the same time)**
 
