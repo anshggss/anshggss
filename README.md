@@ -2,9 +2,9 @@
 <h3 align="center">Frontend Developer from Uttar Pradesh, India</h3>
 
 
-- 🔭 I’m currently working on **a lot of projects (yes! all at the same time)**
+- 🔭 I’m currently working on **a lot of projects**
 
-- 👯 I’m looking to collaborate on **anything (that's readily available and within my development stack)**
+- 👯 I’m looking to collaborate on **anything**
 
 - 📫 How to reach me **ptmtripathi@gmail.com**
 
