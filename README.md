@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ansh</h1>
-<h3 align="center">Frontend Developer from Uttar Pradesh, India</h3>
+<h3 align="center">Backend Developer from Uttar Pradesh, India</h3>
 
 
-- 🔭 I’m currently working on **a lot of projects**
+- 🔭 I love making cool things
 
 - 👯 I’m looking to collaborate on **anything**
 
